@@ -1,0 +1,12 @@
+A1 Aula
+A2 Aula
+A3 Aula
+A4 Aula
+K1 Komputerowa
+K2 Komputerowa
+K3 Komputerowa
+K4 Komputerowa
+L1 Laboratorium
+L2 Laboratorium
+L3 Laboratorium
+L4 Laboratorium
